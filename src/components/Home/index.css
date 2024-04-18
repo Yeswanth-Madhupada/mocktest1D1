@@ -1,0 +1,8 @@
+.main {
+  background-color: #152850;
+  height: 100vh;
+}
+.hd {
+  display: flex;
+  justify-content: space-between;
+}
